@@ -23,3 +23,6 @@ The following source files have been downloaded into the `Homelab-ISOs` director
 * Successfully imported Metasploitable 2 VM (`Metasploitable2-Linux`) into VirtualBox from the unzipped archive.
 * Configured Metasploitable 2 network adapter (Adapter 1) to 'Host-only Adapter' (`vboxnet0`) for network isolation.
 * *Next steps: Install Kali Linux VM...*
+Re-downloading Metasploitable 2 ZIP archive to find correct OVF file for import.
+
+
