@@ -25,4 +25,5 @@ The following source files have been downloaded into the `Homelab-ISOs` director
 * *Next steps: Install Kali Linux VM...*
 Re-downloading Metasploitable 2 ZIP archive to find correct OVF file for import.
 
+* (2025-04-28): Created Kali Linux VM profile in UTM (using Emulate x86_64) and started the graphical OS installation.
 
