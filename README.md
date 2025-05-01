@@ -41,3 +41,5 @@ OS yet.
 * (2025-04-28): Performed initial system update using `sudo apt update` and `sudo apt full-upgrade -y`.
 * *Next steps: Configure the `eth1` internal network interface within Kali, then install Ubuntu Server VM.
 * (2025-04-30): Began exploring Kali tools; performed initial Nmap IP Protocol scan (`-sO`) against `scanme.nmap.org` and reviewed command help (`--help`, `man`).
+* (2025-05-01): Completed foundational Linux/Networking labs on TryHackMe (e.g., Linux Fundamentals Parts 1-3, Networking Basics) to reinforce core concepts.
+
