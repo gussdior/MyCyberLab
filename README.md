@@ -44,3 +44,17 @@ OS yet.
 * (2025-05-01): Completed foundational Linux/Networking labs on TryHackMe (e.g., Linux Fundamentals Parts 1-3, Networking Basics) to reinforce core concepts.
 * (2025-05-02): Completed Windows Fundamentals 1 lab on Tryhackme.
 
+## Phase 3: SOC Simulator – Phishing Simulation
+(2025-05-02): Developed and integrated a basic phishing simulation scenario into the SOC lab environment.
+
+Created a mock phishing email targeting a simulated internal user.
+
+Designed detection logic to trigger alerts on suspicious user behavior (e.g., clicking malicious links).
+
+Simulated credential harvesting through a fake login page hosted on a local web server.
+
+Manually reviewed logs and system behavior to verify phishing indicators (e.g., HTTP requests, user-agent strings).
+
+Documented steps for analyst response workflow in README.
+
+Next steps: Expand phishing scenarios with attachment-based lures and integrate with SIEM for automated alerting.
