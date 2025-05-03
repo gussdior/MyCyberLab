@@ -58,3 +58,7 @@ Manually reviewed logs and system behavior to verify phishing indicators (e.g., 
 Documented steps for analyst response workflow in README.
 
 Next steps: Expand phishing scenarios with attachment-based lures and integrate with SIEM for automated alerting.
+
+* (2025-05-03): Successfully installed Kali Linux (x86_64) in UTM using Emulation after troubleshooting boot issues in VirtualBox. Ejected ISO post-install and logged into Kali desktop. Verified internet 
+connectivity (`ping`) and performed full system update (`apt update && apt full-upgrade`). Practiced initial Nmap scans (`-sO`, `-sS`, `-sV`) against `scanme.nmap.org`. Configured global Git user name and 
+email.
