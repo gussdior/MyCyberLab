@@ -64,3 +64,5 @@ connectivity (`ping`) and performed full system update (`apt update && apt full-
 email.
 
 (2025-05-04): Successfully finished Windows Fundamentals 2 on TryHackMe to deepend my understanding with Windows System tools. 
+
+(2025-05-05): Starting SOC Level 1 Course on TryHackMe - Covering day to day Security Analyst tasks.
