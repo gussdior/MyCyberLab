@@ -66,3 +66,5 @@ email.
 (2025-05-04): Successfully finished Windows Fundamentals 2 on TryHackMe to deepend my understanding with Windows System tools. 
 
 (2025-05-05): Starting SOC Level 1 Course on TryHackMe - Covering day to day Security Analyst tasks.
+
+* Deep coverage of Pyramid of Pain. Going over the things I learned throughout my study journey. 
