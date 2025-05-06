@@ -68,3 +68,6 @@ email.
 (2025-05-05): Starting SOC Level 1 Course on TryHackMe - Covering day to day Security Analyst tasks.
 
 * Deep coverage of Pyramid of Pain. Going over the things I learned throughout my study journey. 
+
+
+* (2025-05-06): Cyber Kill Chain framework workshop is finished. 
