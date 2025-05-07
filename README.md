@@ -73,4 +73,5 @@ email.
 * (2025-05-06): Cyber Kill Chain framework workshop is finished. 
 
 * (2025-05-07): OverTheWire exercise, reached level 17! Practicing Linux skills.
+* Continuing to build expertise in SOC Level 1 fundamentals, reinforcing existing knowledge and actively strengthening core skills through practical application.
 
