@@ -76,3 +76,5 @@ email.
 * Continuing to build expertise in SOC Level 1 fundamentals, reinforcing existing knowledge and actively strengthening core skills through practical application.
 * In the process of creating my own SIEM machine, to practice and understand the mindset of the use of essential tools."In the process of creating my own SIEM machine, to practice and understand the mindset 
 of the use of essential tools.
+
+* (2025-05-08): Docs: Unified Kill Chain.
