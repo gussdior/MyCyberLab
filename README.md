@@ -78,3 +78,4 @@ email.
 of the use of essential tools.
 
 * (2025-05-08): Docs: Unified Kill Chain.
+* (2025-05-10) Docs: Taking a course on ethical hacking by Liang Yang Loi to deepen my understanding on how attackers think.)
