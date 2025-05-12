@@ -80,3 +80,4 @@ of the use of essential tools.
 * (2025-05-08): Docs: Unified Kill Chain.
 * (2025-05-10) Docs: Taking a course on ethical hacking by Liang Yang Loi to deepen my understanding on how attackers think.)
 * (2025-05-11: Docs: Continuing on Soc Level 1 course on TryHackMe.
+* (2025-05-12): Commenced the "Intro to Cyber Threat Intel" module on TryHackMe (SOC Level 1 path) to understand CTI fundamentals and its role in security operations.
