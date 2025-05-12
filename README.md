@@ -60,7 +60,7 @@ Documented steps for analyst response workflow in README.
 Next steps: Expand phishing scenarios with attachment-based lures and integrate with SIEM for automated alerting.
 
 * (2025-05-03): Successfully installed Kali Linux (x86_64) in UTM using Emulation after troubleshooting boot issues in VirtualBox. Ejected ISO post-install and logged into Kali desktop. Verified internet 
-connectivity (`ping`) and performed full system update (`apt update && apt full-upgrade`). Practiced initial Nmap scans (`-sO`, `-sS`, `-sV`) against `scanme.nmap.org`. Configured global Git user name and 
+vconnectivity (`ping`) and performed full system update (`apt update && apt full-upgrade`). Practiced initial Nmap scans (`-sO`, `-sS`, `-sV`) against `scanme.nmap.org`. Configured global Git user name and 
 email.
 
 (2025-05-04): Successfully finished Windows Fundamentals 2 on TryHackMe to deepend my understanding with Windows System tools. 
@@ -81,3 +81,4 @@ of the use of essential tools.
 * (2025-05-10) Docs: Taking a course on ethical hacking by Liang Yang Loi to deepen my understanding on how attackers think.)
 * (2025-05-11: Docs: Continuing on Soc Level 1 course on TryHackMe.
 * (2025-05-12): Commenced the "Intro to Cyber Threat Intel" module on TryHackMe (SOC Level 1 path) to understand CTI fundamentals and its role in security operations.
+* (2025-05-12): Progressed in TryHackMe's CTI module, studying key frameworks such as the Cyber Kill Chain and the Diamond Model of Intrusion Analysis.
