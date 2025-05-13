@@ -82,3 +82,4 @@ of the use of essential tools.
 * (2025-05-11: Docs: Continuing on Soc Level 1 course on TryHackMe.
 * (2025-05-12): Commenced the "Intro to Cyber Threat Intel" module on TryHackMe (SOC Level 1 path) to understand CTI fundamentals and its role in security operations.
 * (2025-05-12): Progressed in TryHackMe's CTI module, studying key frameworks such as the Cyber Kill Chain and the Diamond Model of Intrusion Analysis.
+* (2025-05-13): Explored common Cyber Threat Intelligence tools and platforms within the TryHackMe CTI module, including the concepts behind MISP and using resources like VirusTotal.
