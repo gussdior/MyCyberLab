@@ -1,4 +1,4 @@
-# My Cybersecurity Homelab Project
+V# My Cybersecurity Homelab Project
 
 This repository documents the setup and experiments conducted in my personal cybersecurity homelab built using VirtualBox on macOS (16GB RAM).
 
@@ -84,3 +84,4 @@ of the use of essential tools.
 * (2025-05-12): Progressed in TryHackMe's CTI module, studying key frameworks such as the Cyber Kill Chain and the Diamond Model of Intrusion Analysis.
 * (2025-05-13): Explored common Cyber Threat Intelligence tools and platforms within the TryHackMe CTI module, including the concepts behind MISP and using resources like VirusTotal.
 * (2025-05-14): Continued TryHackMe SOC Level 1 path, focusing on the "Intro to Cyber Threat Intel" module and learning about YARA rule basics.
+* (2025-05-15): Strengthening my knowledge on core security principals such as Active Directory, Azure.)
