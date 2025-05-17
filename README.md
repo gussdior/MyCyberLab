@@ -90,3 +90,5 @@ of the use of essential tools.
 
 * (2025-05-17): Soc Level 1. Snort finished. 
 ** "Using IDS/IPS with Snort."
+** "Snort Challanges, the basics"
+
