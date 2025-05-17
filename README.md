@@ -89,3 +89,4 @@ of the use of essential tools.
 * (2025-05-16): Continuing on my skill building for a SOC Analyst position. 
 
 * (2025-05-17): Soc Level 1. Snort finished. 
+** "Using IDS/IPS with Snort."
