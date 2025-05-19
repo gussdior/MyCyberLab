@@ -92,3 +92,4 @@ of the use of essential tools.
 ** "Using IDS/IPS with Snort."
 ** "Snort Challanges, the basics"
 
+* (2025-05-18) Docs: CySa+ practice course and quiz.)
