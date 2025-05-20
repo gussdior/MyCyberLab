@@ -93,3 +93,4 @@ of the use of essential tools.
 ** "Snort Challanges, the basics"
 
 * (2025-05-18) Docs: CySa+ practice course and quiz.)
+* (2025-05-19) TryHackMe SOC Level 1, continuiation, and CySa+ practice exams.
