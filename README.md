@@ -97,3 +97,7 @@ of the use of essential tools.
 * (2025-05-21) Continuation on SOC Level 1 and CySa+ practice exams. 
 * (2025-05-22) SOC Level 1, and CySa+ besides actively using Kali Linux to understand attackers mindset.
 * (2025-05-25) Continuation of studies, ethical hacking practices on the home-lab.
+* (2025-05-26) Added Digital Forensics and Incident Response (DFIR) tools and documentation for enhanced cybersecurity incident handling.
+
+
+
