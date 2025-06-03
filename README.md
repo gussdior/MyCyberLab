@@ -101,3 +101,4 @@ of the use of essential tools.
 * (2025-05-28) Studying further for Cysa+ exam, and finishing the SOC Level 1 on Trhackme.
 * (2025-05-30) Practicing Yara, and applying on my home-lab.
 
+* (2025-06-03): Continued TryHackMe SOC Level 1 path, advancing through the "Intro to Cyber Threat Intel" module, focusing on understanding CTI sources and the intelligence lifecycle.
