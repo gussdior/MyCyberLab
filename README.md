@@ -104,3 +104,5 @@ of the use of essential tools.
 * (2025-06-03): Continued TryHackMe SOC Level 1 path, advancing through the "Intro to Cyber Threat Intel" module, focusing on understanding CTI sources and the intelligence lifecycle.
 * (2025-06-03): Explored YARA rule fundamentals within the TryHackMe Cyber Threat Intel module, learning about rule structure and basic signature creation for malware identification.
 * Make sure it's added
+* (2025-06-10): Practiced SIEM fundamentals within the TryHackMe SOC L1 path, running queries and analyzing logs in simulated Splunk environments.
+
