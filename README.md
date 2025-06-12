@@ -106,3 +106,5 @@ of the use of essential tools.
 * Make sure it's added
 * (2025-06-10): Practiced SIEM fundamentals within the TryHackMe SOC L1 path, running queries and analyzing logs in simulated Splunk environments.
 
+* (2025-06-10): Advanced in the DFIR module of the TryHackMe SOC L1 path, learning to use tools like Volatility for memory analysis and Autopsy for disk forensics.
+* (2025-06-11): Solved OverTheWire Bandit level 9, using a command pipeline of 'strings', 'sort', and 'uniq -u' to find the unique password in the binary data file.
