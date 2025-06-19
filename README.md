@@ -108,3 +108,4 @@ of the use of essential tools.
 
 * (2025-06-10): Advanced in the DFIR module of the TryHackMe SOC L1 path, learning to use tools like Volatility for memory analysis and Autopsy for disk forensics.
 * (2025-06-11): Solved OverTheWire Bandit level 9, using a command pipeline of 'strings', 'sort', and 'uniq -u' to find the unique password in the binary data file.
+* (2025-06-18): Advanced in OverTheWire Bandit challenges, working on level 12 which required multi-stage file decoding using a pipeline of commands like `xxd`, `gunzip`, and `tar`.
